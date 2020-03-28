@@ -1,8 +1,4 @@
 <?php include("includes/header.php")?>
-<<<<<<< HEAD
-=======
-<?php include("includes/footer.php")?>
->>>>>>> 49fe2d963a1af98d2d56f8021955b8dae9036698
 <?php include("db.php")?>
 
 <?php
@@ -52,10 +48,7 @@ if (isset($_POST['update2'])){
         </div>
     </div>    
 
-<<<<<<< HEAD
 <?php include("includes/footer.php")?>
-=======
->>>>>>> 49fe2d963a1af98d2d56f8021955b8dae9036698
      
     
     

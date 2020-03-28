@@ -1,8 +1,4 @@
 <?php include("includes/header.php")?>
-<<<<<<< HEAD
-=======
-<?php include("includes/footer.php")?>
->>>>>>> 49fe2d963a1af98d2d56f8021955b8dae9036698
 <?php include("db.php")?>
 
     <div class ="card text-center">
@@ -43,8 +39,5 @@
             </div>
         </div>
     </div> 
-<<<<<<< HEAD
 
 <?php include("includes/footer.php")?>
-=======
->>>>>>> 49fe2d963a1af98d2d56f8021955b8dae9036698
