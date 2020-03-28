@@ -1,6 +1,4 @@
 <?php include("includes/header.php")?>
-<?php include("includes/footer.php")?>
-
 
 <div class="container p-12">
 
@@ -64,3 +62,5 @@
 </div>
 
 </div>
+
+<?php include("includes/footer.php")?>

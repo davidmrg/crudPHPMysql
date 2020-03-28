@@ -1,7 +1,4 @@
 <?php include("includes/header.php")?>
-<?php include("includes/footer.php")?>
-
-
 
 
 <div class ="card text-center">
@@ -21,3 +18,5 @@
         </form>
     </div>
 </div>
+
+<?php include("includes/footer.php")?>

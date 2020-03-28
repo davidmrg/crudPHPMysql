@@ -1,5 +1,4 @@
 <?php include("includes/header.php")?>
-<?php include("includes/footer.php")?>
 <?php include("db.php")?>
 
 <?php
@@ -49,6 +48,7 @@ if (isset($_POST['update2'])){
         </div>
     </div>    
 
+<?php include("includes/footer.php")?>
      
     
     
