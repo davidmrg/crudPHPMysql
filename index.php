@@ -5,7 +5,7 @@
             <div class ="card text-center">
                 <div class="card-body">
                     <h1 class="card-title">Sistema CRUD</h5>
-                    <p class="card-text">Un sistema CRUD permite ejecutar las operaciones básicas de trabajo en PHP y MySQL. Se usará una pequeña base de datos con una tabla llamada "alumno" para demostrar el funcioamiento</p>
+                    <p class="card-text">Un sistema CRUD permite ejecutar las operaciones básicas de trabajo en PHP y MySQL</p>
                     <p class="card-text">Seleccione la operación en el menú de navegación ó en las siguientes cards:</p>                    
                     <div class="row">
                         <div class="col-sm-6">
